@@ -68,24 +68,24 @@ class Footer extends Component {
             <div class="w3ls-footer text-center mt-4">
               <ul class="list-unstyled w3ls-icons">
                 <li>
-                  <a href="#">
-                    <span class="fa fa-facebook-f"></span>
-                  </a>
+                  {/* <a href="#"> */}
+                  <span class="fa fa-facebook-f"></span>
+                  {/* </a> */}
                 </li>
                 <li>
-                  <a href="#">
-                    <span class="fa fa-twitter"></span>
-                  </a>
+                  {/* <a href="#"> */}
+                  <span class="fa fa-twitter"></span>
+                  {/* </a> */}
                 </li>
                 <li>
-                  <a href="#">
-                    <span class="fa fa-dribbble"></span>
-                  </a>
+                  {/* <a href="#"> */}
+                  <span class="fa fa-dribbble"></span>
+                  {/* </a> */}
                 </li>
                 <li>
-                  <a href="#">
-                    <span class="fa fa-vk"></span>
-                  </a>
+                  {/* <a href="#"> */}
+                  <span class="fa fa-vk"></span>
+                  {/* </a> */}
                 </li>
               </ul>
             </div>

@@ -371,14 +371,14 @@ class Home extends  Component{
                         <div class="mobl-footer test-soc text-center">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="#">
+                                    {/* <a href="#"> */}
 							<span class="fa fa-facebook-f"></span>
-						</a>
+						{/* </a> */}
                                 </li>
                                 <li class="mx-1">
-                                    <a href="#">
+                                    {/* <a href="#"> */}
 							<span class="fa fa-twitter"></span>
-						</a>
+						{/* </a> */}
                                 </li>
 
                             </ul>
@@ -396,14 +396,14 @@ class Home extends  Component{
                         <div class="mobl-footer test-soc text-center">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="#">
+                                    {/* <a href="#"> */}
 							<span class="fa fa-facebook-f"></span>
-						</a>
+						{/* </a> */}
                                 </li>
                                 <li class="mx-1">
-                                    <a href="#">
+                                    {/* <a href="#"> */}
 							<span class="fa fa-twitter"></span>
-						</a>
+						{/* </a> */}
                                 </li>
 
                             </ul>
@@ -422,14 +422,14 @@ class Home extends  Component{
                         <div class="mobl-footer test-soc text-center">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="#">
+                                    {/* <a href="#"> */}
 							<span class="fa fa-facebook-f"></span>
-						</a>
+						{/* </a> */}
                                 </li>
                                 <li class="mx-1">
-                                    <a href="#">
+                                    {/* <a href="#"> */}
 							<span class="fa fa-twitter"></span>
-						</a>
+						{/* </a> */}
                                 </li>
 
                             </ul>
