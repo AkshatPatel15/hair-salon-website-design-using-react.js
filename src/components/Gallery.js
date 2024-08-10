@@ -22,7 +22,7 @@ class Gallery extends Component {
             <div class="gallery-content">
               <div class="row">
                 <div class="col-md-4 col-sm-6 gal-img">
-                  <a>
+                  <a href="https://google.com">
                     <img
                       src="assets/images/g1.jpg"
                       alt="aegis"
@@ -31,7 +31,7 @@ class Gallery extends Component {
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 gal-img">
-                  <a>
+                  <a href="https://google.com">
                     <img
                       src="assets/images/g2.jpg"
                       alt="aegis"
@@ -40,7 +40,7 @@ class Gallery extends Component {
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 gal-img">
-                  <a>
+                  <a href="https://google.com">
                     <img
                       src="assets/images/g3.jpg"
                       alt="aegis"
@@ -49,7 +49,7 @@ class Gallery extends Component {
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 gal-img">
-                  <a>
+                  <a href="https://google.com">
                     <img
                       src="assets/images/g4.jpg"
                       alt="aegis"
@@ -58,7 +58,7 @@ class Gallery extends Component {
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 gal-img">
-                  <a>
+                  <a href="https://google.com">
                     <img
                       src="assets/images/g5.jpg"
                       alt="aegis"
@@ -67,7 +67,7 @@ class Gallery extends Component {
                   </a>
                 </div>
                 <div class="col-md-4 col-sm-6 gal-img">
-                  <a>
+                  <a href="https://google.com">
                     <img
                       src="assets/images/g6.jpg"
                       alt="aegis"
@@ -78,7 +78,11 @@ class Gallery extends Component {
               </div>
               <div id="gal1" class="popup-effect">
                 <div class="popup">
-                  <img src="assets/images/g1.jpg" class="img-fluid mt-4" />
+                  <img
+                    src="assets/images/g1.jpg"
+                    alt="hair-salon"
+                    class="img-fluid mt-4"
+                  />
                   <a class="close" href="#gallery">
                     &times;
                   </a>
@@ -86,7 +90,11 @@ class Gallery extends Component {
               </div>
               <div id="gal2" class="popup-effect">
                 <div class="popup">
-                  <img src="assets/images/g2.jpg" class="img-fluid mt-4" />
+                  <img
+                    src="assets/images/g2.jpg"
+                    alt="hair-salon-1"
+                    class="img-fluid mt-4"
+                  />
                   <a class="close" href="#gallery">
                     &times;
                   </a>
@@ -94,7 +102,11 @@ class Gallery extends Component {
               </div>
               <div id="gal3" class="popup-effect">
                 <div class="popup">
-                  <img src="assets/images/g3.jpg" class="img-fluid mt-4" />
+                  <img
+                    src="assets/images/g3.jpg"
+                    alt="hair-salon"
+                    class="img-fluid mt-4"
+                  />
                   <a class="close" href="#gallery">
                     &times;
                   </a>
@@ -102,7 +114,11 @@ class Gallery extends Component {
               </div>
               <div id="gal4" class="popup-effect">
                 <div class="popup">
-                  <img src="assets/images/g4.jpg" class="img-fluid mt-4" />
+                  <img
+                    src="assets/images/g4.jpg"
+                    alt="hair-salon"
+                    class="img-fluid mt-4"
+                  />
                   <a class="close" href="#gallery">
                     &times;
                   </a>
@@ -110,7 +126,11 @@ class Gallery extends Component {
               </div>
               <div id="gal5" class="popup-effect">
                 <div class="popup">
-                  <img src="assets/images/g5.jpg" class="img-fluid mt-4" />
+                  <img
+                    src="assets/images/g5.jpg"
+                    alt="hair-salon"
+                    class="img-fluid mt-4"
+                  />
                   <a class="close" href="#gallery">
                     &times;
                   </a>
@@ -118,7 +138,11 @@ class Gallery extends Component {
               </div>
               <div id="gal6" class="popup-effect">
                 <div class="popup">
-                  <img src="assets/images/g6.jpg" class="img-fluid mt-4" />
+                  <img
+                    src="assets/images/g6.jpg"
+                    alt="hair-salon"
+                    class="img-fluid mt-4"
+                  />
                   <a class="close" href="#gallery">
                     &times;
                   </a>

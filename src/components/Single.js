@@ -40,22 +40,22 @@ class Single extends Component {
                 <ul class="w3ls_social_list list-unstyled mt-4">
                   <li class="lead">Catch On Social :</li>
                   <li>
-                    <a class="w3pvt_facebook">
+                    <a href="index.html" class="w3pvt_facebook">
                       <span class="fa fa-facebook-f"></span>
                     </a>
                   </li>
                   <li class="mx-2">
-                    <a class="w3pvt_twitter">
+                    <a href="index.html" class="w3pvt_twitter">
                       <span class="fa fa-twitter"></span>
                     </a>
                   </li>
                   <li>
-                    <a class="w3pvt_dribble">
+                    <a href="index.html" class="w3pvt_dribble">
                       <span class="fa fa-dribbble"></span>
                     </a>
                   </li>
                   <li class="ml-2">
-                    <a class="w3pvt_google">
+                    <a href="index.html" class="w3pvt_google">
                       <span class="fa fa-google-plus"></span>
                     </a>
                   </li>
